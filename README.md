@@ -8,8 +8,6 @@ categoryName - to store the name of the category.
 
 description - for a description of the category.
 
-parentCategory - if categories are hierarchical (e.g., subcategories).
-
 isActive - to indicate whether the category is active or inactive.
 
 ###  For a Product class:
